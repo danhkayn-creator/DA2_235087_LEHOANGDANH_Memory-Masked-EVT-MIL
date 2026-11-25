@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+.ipynb_checkpoints/
+data/raw_videos/
+data/clip_features/
+*.npy
+*.mp4
+*.pth
+*.pt
+runs/
