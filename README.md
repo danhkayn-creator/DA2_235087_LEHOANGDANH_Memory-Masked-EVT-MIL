@@ -382,7 +382,7 @@ Repository lưu trữ:
 
 Các sản phẩm có dung lượng lớn được lưu tại Google Drive:
 
-**[Google Drive - Dataset, Features, Checkpoints and Results](YOUR_GOOGLE_DRIVE_LINK)**
+**[Google Drive - Dataset, Features, Checkpoints and Results](https://drive.google.com/drive/folders/1MWfm92vi0_PDfCOZBkRAcbQYNJvppzwv)**
 
 ```text
 DA2_235087_LEHOANGDANH_Memory-Masked-EVT-MIL/
