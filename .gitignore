@@ -9,3 +9,31 @@ data/clip_features/
 *.pth
 *.pt
 runs/
+
+# Dataset
+data/raw/
+data/processed/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pkl
+*.pt
+*.ckpt
+
+# Large prediction files
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Temporary files
+*.bak
+*.log

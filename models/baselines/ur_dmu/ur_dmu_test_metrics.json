@@ -1,0 +1,16 @@
+{
+  "step": [
+    0
+  ],
+  "auc": [
+    0.8573190371020437
+  ],
+  "ap": [
+    0.3003747593796418
+  ],
+  "ac": [
+    0.8413793103448276
+  ],
+  "checkpoint": "/run/media/danhkay/Data/Project/DA2/DA2_235087_LEHOANGDANH_Memory-Masked-EVT-MIL/checkpoints/ur_dmu/best_model.pkl",
+  "n_videos": 2900
+}

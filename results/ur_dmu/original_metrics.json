@@ -1,0 +1,13 @@
+{
+  "checkpoint": "/run/media/danhkay/Data/Project/DA2/DA2_235087_LEHOANGDANH_Memory-Masked-EVT-MIL/checkpoints/ur_dmu/best_model.pkl",
+  "n_feature_entries": 2900,
+  "n_videos": 290,
+  "crops_per_video": 10,
+  "original_metrics": {
+    "auc": 0.8573177254296132,
+    "pr_auc": 0.29976266385938566,
+    "average_precision": 0.3021635055921944,
+    "video_accuracy": 0.8413793103448276
+  },
+  "status": "completed"
+}

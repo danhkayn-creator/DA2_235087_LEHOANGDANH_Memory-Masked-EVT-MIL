@@ -1,0 +1,24 @@
+{
+  "dataset": "UCF-Crime",
+  "feature_source": "VadCLIP",
+  "feature_dim": 512,
+  "total_videos": 1900,
+  "num_classes": 14,
+  "feature_files": 16390,
+  "unused_npy_files": 3110,
+  "seed": 42,
+  "val_ratio": 0.1,
+  "splits": {
+    "train": 1449,
+    "val": 161,
+    "test": 290
+  },
+  "binary_distribution": {
+    "1": 950,
+    "0": 950
+  },
+  "augmentation": "none",
+  "balancing": "balanced video sampling planned at training time",
+  "train_list": "ucf_CLIP_rgb.csv",
+  "test_list": "ucf_CLIP_rgbtest.csv"
+}

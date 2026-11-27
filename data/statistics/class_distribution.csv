@@ -1,0 +1,15 @@
+category,train,val,test,total
+Normal,720,80,150,950
+Abuse,43,5,2,50
+Arrest,41,4,5,50
+Arson,37,4,9,50
+Assault,42,5,3,50
+Burglary,78,9,13,100
+Explosion,26,3,21,50
+Fighting,41,4,5,50
+RoadAccidents,114,13,23,150
+Robbery,131,14,5,150
+Shooting,24,3,23,50
+Shoplifting,26,3,21,50
+Stealing,85,10,5,100
+Vandalism,41,4,5,50
