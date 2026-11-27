@@ -3,8 +3,7 @@
 
 ## 1. Giới thiệu
 
-Đề tài nghiên cứu phát hiện bất thường trong video với giám sát yếu (Weakly Supervised Video Anomaly Detection), kết hợp ngân hàng bộ nhớ thưa hóa (Sparse Memory Bank), cơ chế Memory-Guided Masking và lý thuyết giá trị cực trị (Extreme Value Theory - EVT) trong Multiple Instance Learning (MIL), dựa trên đặc trưng CLIP ViT-B/16.
-
+Đề tài nghiên cứu và phát triển kiến trúc học sâu giám sát yếu kết hợp Ngân hàng bộ nhớ thưa hóa và Lý thuyết Giá trị Cực trị vượt ngưỡng cho bài toán phát hiện bất thường trong video
 ### Thông tin đồ án
 
 - Sinh viên: Lê Hoàng Danh
@@ -220,12 +219,6 @@ Cài đặt các thư viện:
 
 ```bash
 pip install -r requirements.txt
-```
-
-Kiểm tra GPU:
-
-```bash
-python scripts/check_gpu.py
 ```
 
 Kiểm tra CUDA trực tiếp:
