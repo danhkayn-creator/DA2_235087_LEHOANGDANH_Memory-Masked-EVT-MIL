@@ -88,7 +88,7 @@ UCF-Crime là bộ dữ liệu video phục vụ nghiên cứu phát hiện bấ
 | C3D | Deep MIL |
 | I3D | RTFM, UR-DMU |
 | CLIP | VadCLIP |
-| CLIP ViT-B/16 | Mô hình đề xuất (dự kiến) |
+| CLIP | Mô hình đề xuất (dự kiến) |
 
 ### Nguồn dữ liệu
 
